@@ -24,7 +24,7 @@ global:
       imagetag: develop
       multiVersions:
         enabled: false
-      replicas: 2
+      replicas: 1
       envVars:
         APP_REF_NAME: jump-app
       containerPorts:
@@ -43,7 +43,7 @@ global:
       imagetag: develop
       multiVersions:
         enabled: false
-      replicas: 2
+      replicas: 1
       envVars:
         APP_REF_NAME: jump-app
       containerPorts:
@@ -64,7 +64,7 @@ global:
       imagetag: develop
       multiVersions:
         enabled: false
-      replicas: 2
+      replicas: 1
       envVars:
         APP_REF_NAME: jump-app
       containerPorts:
@@ -85,7 +85,7 @@ global:
       imagetag: develop
       multiVersions:
         enabled: false
-      replicas: 2
+      replicas: 1
       envVars:
         APP_REF_NAME: jump-app
       containerPorts:
